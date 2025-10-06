@@ -5,4 +5,4 @@ const Page = () => {
         <div>Page</div>
     )
 }
-export default Pa
+export default Page

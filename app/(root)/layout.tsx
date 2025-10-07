@@ -7,10 +7,11 @@ const RootLayout = ({ children }: { children: ReactNode }) => {
             <nav>
                 <Link href="/" className="flex items-center gap-2">
                 <Image src="/logo.svg" alt="Logo" width={38} height={38} />
-
-
+                    <h2 className="text-primary-100">PrepWise</h2>
                 </Link>
             </nav>
+
+            {children}
         </div>
     )
 }

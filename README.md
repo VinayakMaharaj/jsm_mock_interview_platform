@@ -2,8 +2,6 @@
 
 An on-demand AI-powered mock interview platform with real-time voice interaction and structured written feedback. Practice technical and behavioral interviews anytime, without scheduling.
 
-**Live Demo** → *(add your deployed URL here)*
-
 ---
 
 ## What It Does
